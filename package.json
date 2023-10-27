@@ -4,6 +4,7 @@
     "description": "A Sample Node.js Application",
     "main": "server.js",
     "scripts": {
+        "serve": "./build.sh && nuxt",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
